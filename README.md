@@ -1,0 +1,2 @@
+# Notes
+Make notes instantly!!
